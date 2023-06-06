@@ -4,8 +4,8 @@ from pyquery import PyQuery as pq
 html = '''
 <html>
   <body>
-    <h2>Título de ejemplo</h2>
-    <p>Este es un párrafo de ejemplo.</p>
+    <h2>Resources</h2>
+    <p>JSONPlaceholder comes with a set of 6 common resources</p>
   </body>
 </html>
 '''
